@@ -1,0 +1,89 @@
+body
+{
+	background-image: url("wall/sherlock.jpg");
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+}
+
+#header
+{
+	width:inherit;
+	height:80px;
+	border:1px solid white;
+	padding: 0px 0px 0px 20px;
+ 	background-color: rgba(0,0,0,.7);
+}
+
+h1
+{
+	color: whitesmoke;
+	font-family: fantasy;
+}
+
+.navbar{
+	border: 1px solid white;
+	width: inherit;
+	height: 60px;
+	background-color: rgba(0,0,0,.7);
+}
+
+.navbar ol{
+	list-style: none;
+}
+
+.navbar li{
+	float: left;
+	margin-left: 250px;
+}
+
+a{
+	text-decoration: none;
+	color: whitesmoke;
+}
+
+#img-bar{
+	background-image: url("wall/iron_man2.jpg");
+	width: inherit;
+	height: 500px;
+	background-attachment: fixed;
+    background-position: top;
+}
+
+#vision{
+   background-color: rgba(0,0,0,.7);
+   width:inherit;
+   height:35px;
+   text-align: center;
+   border:1px solid white;
+   padding: 10px 10px 10px 10px;
+   font-family: fantasy;
+   font-size: 25px;
+}
+
+#txt{
+	padding: 10px;  
+	border:1px solid white;
+	background-color: rgba(0,0,0,.7);
+	padding: 20px 20px 15px 40px;
+	font-style: justify;
+}
+
+#team{
+   background-color: rgba(0,0,0,.7);
+   width:inherit;
+   height:35px;
+   text-align: center;
+   border:1px solid white;
+   padding: 10px 10px 10px 10px;
+   font-family: fantasy;
+   font-size: 25px;
+}
+table{
+	float: left;
+	margin-left: 250px;
+	padding: 10px;
+	border: collapse;
+}
